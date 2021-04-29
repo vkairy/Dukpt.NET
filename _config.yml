@@ -1,0 +1,8 @@
+title: Dukpt.NET
+description: A C# implementation of the Derived Unique Key Per Transaction (DUKPT) process described in ANS X9.24-2004.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
